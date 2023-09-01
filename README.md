@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CecicOic
+- 👋 Hi, I’m Marco
 - 👀 I’m interested in Artificial Intelligence & Game Design
 - 🌱 I’m currently learning AI and Data Analytics
 - 💞️ I’m looking to collaborate on Anything
