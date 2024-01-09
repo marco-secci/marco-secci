@@ -10,7 +10,7 @@ I am currently studying the following coding languages:
 - Javascript
 - Typescript
 - C
-- C++
+- C#
 - Zig
 
 <!---
