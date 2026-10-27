@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Marco
 - 👀 I’m interested in Artificial Intelligence & Game Design
-- 🌱 I’m currently learning AI and Data Analytics
+- 🌱 I’m currently learning AI and Data Science
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me: mail - marcosecci2002@gmail.com
+- 📫 How to reach me: mail - marco.secci@studenti.units.it
 
 I am currently studying the following coding languages:
 - Python
